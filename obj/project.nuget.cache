@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fm07h6ToQFmZxRWxJkTjpOEZKFmejcqqwH4NZtAkcp2/iJRfOhREfw1pvboCp2S7EG7NIIbUzdMMSQO16YWLIQ==",
+  "success": true,
+  "projectFilePath": "D:\\VsStudio\\Emergency Services\\Emergency Services.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdeas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+D:\VsStudio\Emergency Services\bin\Debug\net6.0-windows\Emergency Services.exe
+D:\VsStudio\Emergency Services\bin\Debug\net6.0-windows\Emergency Services.deps.json
+D:\VsStudio\Emergency Services\bin\Debug\net6.0-windows\Emergency Services.runtimeconfig.json
+D:\VsStudio\Emergency Services\bin\Debug\net6.0-windows\Emergency Services.dll
+D:\VsStudio\Emergency Services\bin\Debug\net6.0-windows\Emergency Services.pdb
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.vbproj.AssemblyReference.cache
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency_Services.Form1.resources
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency_Services.Resources.resources
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.vbproj.GenerateResource.cache
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.AssemblyInfoInputs.cache
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.AssemblyInfo.vb
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.vbproj.CoreCompileInputs.cache
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.dll
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\refint\Emergency Services.dll
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.pdb
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.genruntimeconfig.cache
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\ref\Emergency Services.dll
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency_Services.bloodForm.resources
+D:\VsStudio\Emergency Services\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\VsStudio\Emergency Services\obj\Debug\net6.0-windows\Emergency Services.vbproj.CopyComplete
